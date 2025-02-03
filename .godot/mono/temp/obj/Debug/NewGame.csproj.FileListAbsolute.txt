@@ -1,0 +1,17 @@
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\bin\Debug\NewGame.deps.json
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\bin\Debug\NewGame.runtimeconfig.json
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\bin\Debug\NewGame.dll
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\bin\Debug\NewGame.pdb
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.csproj.AssemblyReference.cache
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.csproj.Up2Date
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.dll
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\refint\NewGame.dll
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.pdb
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\NewGame.genruntimeconfig.cache
+C:\Users\Utilisateur\Desktop\First2DGame\.godot\mono\temp\obj\Debug\ref\NewGame.dll

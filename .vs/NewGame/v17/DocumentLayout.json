@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D667905-FD58-4385-BC31-8A7EDB998EBA}|NewGame.csproj|c:\\users\\utilisateur\\desktop\\first2dgame\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D667905-FD58-4385-BC31-8A7EDB998EBA}|NewGame.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D667905-FD58-4385-BC31-8A7EDB998EBA}|NewGame.csproj|c:\\users\\utilisateur\\desktop\\first2dgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D667905-FD58-4385-BC31-8A7EDB998EBA}|NewGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D667905-FD58-4385-BC31-8A7EDB998EBA}|NewGame.csproj|c:\\users\\utilisateur\\desktop\\first2dgame\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D667905-FD58-4385-BC31-8A7EDB998EBA}|NewGame.csproj|solutionrelative:hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D667905-FD58-4385-BC31-8A7EDB998EBA}|NewGame.csproj|c:\\users\\utilisateur\\desktop\\first2dgame\\mob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D667905-FD58-4385-BC31-8A7EDB998EBA}|NewGame.csproj|solutionrelative:mob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:53:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mob.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\Mob.cs",
+              "RelativeDocumentMoniker": "Mob.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\Mob.cs",
+              "RelativeToolTip": "Mob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:51:50.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\HUD.cs",
+              "RelativeDocumentMoniker": "HUD.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\HUD.cs",
+              "RelativeToolTip": "HUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:49:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:49:32.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

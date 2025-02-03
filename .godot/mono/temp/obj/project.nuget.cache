@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fecZ6q1m8A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utilisateur\\Desktop\\First2DGame\\NewGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilisateur\\.nuget\\packages\\godot.sourcegenerators\\4.3.0\\godot.sourcegenerators.4.3.0.nupkg.sha512",
+    "C:\\Users\\Utilisateur\\.nuget\\packages\\godotsharp\\4.3.0\\godotsharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\Utilisateur\\.nuget\\packages\\godotsharpeditor\\4.3.0\\godotsharpeditor.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

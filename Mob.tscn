@@ -1,0 +1,67 @@
+[gd_scene load_steps=10 format=3 uid="uid://dk38b0cjqb4ki"]
+
+[ext_resource type="Script" path="res://Mob.cs" id="1_pnxwx"]
+[ext_resource type="Texture2D" uid="uid://m5urb5rdhlhy" path="res://art/enemyFlyingAlt_1.png" id="1_wq2gh"]
+[ext_resource type="Texture2D" uid="uid://ca40yqf0yw0w5" path="res://art/enemyFlyingAlt_2.png" id="2_a7d7a"]
+[ext_resource type="Texture2D" uid="uid://qala53w8xevl" path="res://art/enemySwimming_1.png" id="3_nex5i"]
+[ext_resource type="Texture2D" uid="uid://d22u0fuwrlnra" path="res://art/enemySwimming_2.png" id="4_5td4t"]
+[ext_resource type="Texture2D" uid="uid://dnrjjv0cd2rj0" path="res://art/enemyWalking_1.png" id="5_gdqq1"]
+[ext_resource type="Texture2D" uid="uid://bdbwg0y6w8aip" path="res://art/enemyWalking_2.png" id="6_g8um1"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_b7ota"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_wq2gh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_a7d7a")
+}],
+"loop": true,
+"name": &"fly",
+"speed": 3.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("3_nex5i")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_5td4t")
+}],
+"loop": true,
+"name": &"swim",
+"speed": 3.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("5_gdqq1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_g8um1")
+}],
+"loop": false,
+"name": &"walk",
+"speed": 3.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_4fcr2"]
+radius = 36.0009
+height = 106.003
+
+[node name="Mob" type="RigidBody2D"]
+collision_mask = 0
+gravity_scale = 0.0
+script = ExtResource("1_pnxwx")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.75, 0.75)
+sprite_frames = SubResource("SpriteFrames_b7ota")
+animation = &"fly"
+
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+position = Vector2(571.5, 355.5)
+scale = Vector2(58.15, 36.55)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+rotation = 1.57125
+shape = SubResource("CapsuleShape2D_4fcr2")
